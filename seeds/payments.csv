@@ -1,0 +1,7 @@
+payment_id,order_id,payment_method,payment_status
+5001,1001,card,paid
+5002,1002,bank_transfer,paid
+5003,1003,card,paid
+5004,1004,paypal,paid
+5005,1005,card,paid
+5006,1006,card,paid
